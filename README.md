@@ -33,3 +33,9 @@ I tried to optimise the parts used, and have to do PCBA on both sides because I 
 
 
 Open source, feel free to check out my schematics or tell me where my routing looks messy.
+
+Attached are the images of the schematic and the PCB
+
+<img width="557" height="721" alt="Screenshot 2026-06-12 at 6 31 29 PM" src="https://github.com/user-attachments/assets/e0578129-f2bb-42ff-89ec-4a8f54a3b6b3" />
+<img width="1034" height="711" alt="Screenshot 2026-06-12 at 6 31 08 PM" src="https://github.com/user-attachments/assets/05048a7b-4d6e-4dc5-a4c0-7486b1992598" />
+
