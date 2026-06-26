@@ -23,14 +23,6 @@ Pictures of the Devboard:
 <img width="1112" height="966" alt="Screenshot 2026-06-01 at 12 27 57 AM" src="https://github.com/user-attachments/assets/6d7b687c-7dc8-4062-9d63-701ff6a50a31" />
 <img width="772" height="913" alt="Screenshot 2026-06-01 at 12 28 18 AM" src="https://github.com/user-attachments/assets/77725a36-c3e3-4ded-bb07-ada03411665f" /><img width="1706" height="987" alt="Screenshot 2026-06-01 at 12 28 43 AM" src="https://github.com/user-attachments/assets/898aa0d2-6894-43e4-b823-0bfa9c5acc1f" />
 
-I tried to optimise the parts used, and have to do PCBA on both sides because I don't own a soldering iron. Also, the RP2040 is really hard to hand solder.
-
-<img width="1051" height="848" alt="Screenshot 2026-06-01 at 5 27 14 PM" src="https://github.com/user-attachments/assets/972d55c5-06ee-452d-8827-2a3cffd112f6" />
-
-<img width="1220" height="716" alt="Screenshot 2026-06-01 at 5 29 56 PM" src="https://github.com/user-attachments/assets/9da89503-585d-466d-b570-96352e2fd463" />
-
-
-
 
 Open source, feel free to check out my schematics or tell me where my routing looks messy.
 
